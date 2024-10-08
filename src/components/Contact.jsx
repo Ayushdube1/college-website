@@ -26,9 +26,9 @@ const Contact = () => {
                 <input type="tel" name ="phone" placeholder="Enter your mobile number here" required />
                 
                 <label>Your email</label>
-                <input type="email" name ="email" placeholder="Enter your mail here" required />
+                <input type="email"  name ="email" placeholder="Enter your mail here" required />
                 <label>Write your message here</label>
-                <textarea name ="message" rows="6" placeholder="Enter your message here" required></textarea>
+                <textarea name ="message" type="text" rows="6" placeholder="Enter your message here" required></textarea>
                 <button type ="submit" className="btn dark-btn">Submit now <img src ={white_arrow}/></button>
             </form>
             <span></span>
