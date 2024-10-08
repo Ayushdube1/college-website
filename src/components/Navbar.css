@@ -24,3 +24,7 @@ nav ul li{
     /* color:black; */
     /* see the color thing */
 }
+.dark-nav{
+    background: #212ea0;
+    transition:0.5s
+}
