@@ -25,7 +25,7 @@ const Programs = () => {
             <img src ={program_2} />
             <div className="caption">
                 <img src ={program_icon2} />
-                <p>Post Graduate</p>
+                <p>Masters Degree</p>
             </div>
         </div>
 
@@ -33,7 +33,7 @@ const Programs = () => {
             <img src ={program_3} />
             <div className="caption">
                 <img src ={program_icon3} />
-                <p>Graduation Degree</p>
+                <p> Post Graduate</p>
             </div>
         </div>
       
